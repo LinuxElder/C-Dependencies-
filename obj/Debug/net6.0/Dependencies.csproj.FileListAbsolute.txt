@@ -1,0 +1,15 @@
+C:\Users\Colvest\source\Workspaces\Dependencies\bin\Debug\net6.0\Dependencies.exe
+C:\Users\Colvest\source\Workspaces\Dependencies\bin\Debug\net6.0\Dependencies.deps.json
+C:\Users\Colvest\source\Workspaces\Dependencies\bin\Debug\net6.0\Dependencies.runtimeconfig.json
+C:\Users\Colvest\source\Workspaces\Dependencies\bin\Debug\net6.0\Dependencies.dll
+C:\Users\Colvest\source\Workspaces\Dependencies\bin\Debug\net6.0\Dependencies.pdb
+C:\Users\Colvest\source\Workspaces\Dependencies\obj\Debug\net6.0\Dependencies.csproj.AssemblyReference.cache
+C:\Users\Colvest\source\Workspaces\Dependencies\obj\Debug\net6.0\Dependencies.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Colvest\source\Workspaces\Dependencies\obj\Debug\net6.0\Dependencies.AssemblyInfoInputs.cache
+C:\Users\Colvest\source\Workspaces\Dependencies\obj\Debug\net6.0\Dependencies.AssemblyInfo.cs
+C:\Users\Colvest\source\Workspaces\Dependencies\obj\Debug\net6.0\Dependencies.csproj.CoreCompileInputs.cache
+C:\Users\Colvest\source\Workspaces\Dependencies\obj\Debug\net6.0\Dependencies.dll
+C:\Users\Colvest\source\Workspaces\Dependencies\obj\Debug\net6.0\refint\Dependencies.dll
+C:\Users\Colvest\source\Workspaces\Dependencies\obj\Debug\net6.0\Dependencies.pdb
+C:\Users\Colvest\source\Workspaces\Dependencies\obj\Debug\net6.0\Dependencies.genruntimeconfig.cache
+C:\Users\Colvest\source\Workspaces\Dependencies\obj\Debug\net6.0\ref\Dependencies.dll
